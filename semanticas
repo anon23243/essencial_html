@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>Cabecalho</header>
+    <div>
+        <aside>
+            Barra lateral
+            <nav>Navegacao</nav>
+        </aside>
+        <main>
+            Conteudo principal
+            <section>Secao com conteudo relacionado ao mesmo tema
+            </section>
+    <footer>Rodape</footer>
+</body>
+</html>

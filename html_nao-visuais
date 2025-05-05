@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>SPAN</h1>
+    <span> SPAN significa <b>VAO</b></span>
+    <span>...continua na mesma linha (por padrao)</span>
+    <span>...continua na mesma linha (por padrao)</span>
+    <span>...continua na mesma linha (por padrao)</span>
+    <span>...continua na mesma linha (por padrao)</span>
+
+    <h1>DIV</h1>
+    <div>DIV significa<b>DIVISAO</b></div>
+    <div>continuar em outra linha (por padrao)</div>
+    <div>continuar em outra linha (por padrao)</div>
+    <div>continuar em outra linha (por padrao)</div>
+    <div>continuar em outra linha (por padrao)</div>
+</body>
+</html>
